@@ -88,8 +88,6 @@ def get_loc():
             url = get.get_input()
             out = geoip.get_loc(url, path.get(), file.get())
             ans.insert('end', text=out+ "\n\n")
-        except FileNotFoundError as e:
-            ans.insert('end', text="Please enter a valid path.\n\n")
         except Exception as e:
             ans.insert('end', text="Please enter a valid url.\n\n")
 
