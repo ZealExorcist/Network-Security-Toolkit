@@ -1,0 +1,4 @@
+geocoder
+folium
+customtkinter
+scapy
