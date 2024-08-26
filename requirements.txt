@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 geocoder
 folium
 customtkinter
-=======
-geocoder
-folium
-customtkinter
->>>>>>> 97e50f3017aeaf17bbac80f8a53421e8c5629711
 scapy
+python-nmap
